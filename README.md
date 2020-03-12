@@ -1,6 +1,6 @@
 本项目作为 [pingfangx/TranslatorX](https://www.pingfangx.com/xx/translation/jetbrains) 的一个子模块  
-仅用于发布 JetBrains 系列软件的汉化包。  
-因为汉化包为 jar 包，文件较大，不利于在版本仓库中维护，  
+仅用于发布 JetBrains 系列软件的hanhua包。  
+因为hanhua包为 jar 包，文件较大，不利于在版本仓库中维护，  
 还经常传不上去、下不下来，因此单独作为一个仓库。  
 
 查看源码、反馈问题等请查看 [主项目](https://www.pingfangx.com/xx/translation/jetbrains)  
